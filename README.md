@@ -9,5 +9,5 @@ This repository serves as a central hub for my machine learning projects. Below 
 
 ### [Obesity Level Classification](https://github.com/annie-jiang/obesity-classification)
 
-### [NYC Housing Prices Regression](https://github.com/annie-jiang/nyc-housing-classification)
+### [NYC Housing Prices Regression](https://github.com/annie-jiang/nyc-housing-regression)
 
